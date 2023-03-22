@@ -1,0 +1,15 @@
+a {
+    color: white;
+}
+
+p {
+    background-color: blue;
+    color: white;
+    position: absolute;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Source Code Pro', monospace;
+}
